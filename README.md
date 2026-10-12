@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**adarshsaba2007-glitch/adarshsaba2007-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, 👋
 
-Here are some ideas to get you started:
+I'm Adarsh, a VLSI undergraduate based in India at NIT Warangal
+👨‍💻 I'm interested in electronics, embedded systems, and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Programming:** C++, Python, SQL
+- **Hardware:** Arduino, ESP32, TFT Display
+
+### 🚀 My Projects
+- **Smart Task Reminder Cube** – A task reminder device using ESP32 and a TFT touchscreen.
+- **Toll Gate System** – An electronic system to control a toll gate.
+- **Speedometer** – A project to measure and display speed using a microcontroller.
+
+### 📚 Currently Learning
+- Embedded Systems
+- C++ Programming
+- Electronics and Microcontrollers
+
+### 🎯 My Goal
+To learn new technologies and build whatever i wish to
+
+⭐ *Learning by building, one project at a time!*
